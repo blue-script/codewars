@@ -7,7 +7,7 @@
 // spinWords( "This is a test") => returns "This is a test" 
 // spinWords( "This is another test" )=> returns "This is rehtona test"
 
-// ✅ SOLUTIONS
+// ✅ SOLUTION
 
 function spinWords(string) {
     let arr = string.split(' ')
