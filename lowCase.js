@@ -1,1 +1,1 @@
-console.log("Ones and Zeros".toLowerCase().replaceAll(' ', '-'))
+console.log("Odd or Even?".toLowerCase().replaceAll(' ', '-'))
