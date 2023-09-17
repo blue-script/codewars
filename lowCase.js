@@ -1,1 +1,1 @@
-console.log("Multiples of 3 or 5".toLowerCase().replaceAll(' ', '-'))
+console.log("Convert string to camel case".toLowerCase().replaceAll(' ', '-'))
