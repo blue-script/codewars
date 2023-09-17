@@ -1,1 +1,1 @@
-console.log("Odd or Even?".toLowerCase().replaceAll(' ', '-'))
+console.log("Multiples of 3 or 5".toLowerCase().replaceAll(' ', '-'))
