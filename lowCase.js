@@ -1,1 +1,1 @@
-console.log("Convert string to camel case".toLowerCase().replaceAll(' ', '-'))
+console.log("Break camelCase".toLowerCase().replaceAll(' ', '-'))
