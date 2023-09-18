@@ -1,1 +1,1 @@
-console.log("Break camelCase".toLowerCase().replaceAll(' ', '-'))
+console.log("Human Readable Time".toLowerCase().replaceAll(' ', '-'))
