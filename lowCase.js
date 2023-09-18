@@ -1,1 +1,1 @@
-console.log("Mexican Wave".toLowerCase().replaceAll(' ', '-'))
+console.log("Find factors of a number".toLowerCase().replaceAll(' ', '-'))
