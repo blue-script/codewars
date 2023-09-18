@@ -1,1 +1,1 @@
-console.log("Human Readable Time".toLowerCase().replaceAll(' ', '-'))
+console.log("Counting Duplicates".toLowerCase().replaceAll(' ', '-'))
