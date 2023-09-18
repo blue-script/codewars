@@ -1,1 +1,1 @@
-console.log("Counting Duplicates".toLowerCase().replaceAll(' ', '-'))
+console.log("Mexican Wave".toLowerCase().replaceAll(' ', '-'))
