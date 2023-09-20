@@ -1,1 +1,1 @@
-console.log("Find factors of a number".toLowerCase().replaceAll(' ', '-'))
+console.log("Last digit of a large number".toLowerCase().replaceAll(' ', '-'))
