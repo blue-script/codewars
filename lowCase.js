@@ -1,1 +1,1 @@
-console.log("Last digit of a large number".toLowerCase().replaceAll(' ', '-'))
+console.log("You Can't Code Under Pressure #1".toLowerCase().replaceAll(' ', '-'))
