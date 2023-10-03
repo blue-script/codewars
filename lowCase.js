@@ -1,1 +1,1 @@
-console.log("Simple Fun #160: Cut The Ropes".toLowerCase().replaceAll(' ', '-'))
+console.log("Calculate Julie's Age".toLowerCase().replaceAll(' ', '-'))
