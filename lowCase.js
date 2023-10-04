@@ -1,1 +1,1 @@
-console.log("Calculate Julie's Age".toLowerCase().replaceAll(' ', '-'))
+console.log("Even or Odd".toLowerCase().replaceAll(' ', '-'))
