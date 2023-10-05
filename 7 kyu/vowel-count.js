@@ -8,8 +8,8 @@
 // ✅ SOLUTION
 
 function getCount(str) {
-    let strArr = str.match(/a|e|i|o|u/g)
-    return strArr === null ? 0 : strArr.length
-  }
+  let strArr = str.match(/a|e|i|o|u/g)
+  return strArr === null ? 0 : strArr.length
+}
 
-  console.log(getCount("mya pyx"))
+console.log(getCount("mya pyx"))
