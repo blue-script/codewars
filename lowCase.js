@@ -1,1 +1,1 @@
-console.log("Simple beads count".toLowerCase().replaceAll(' ', '-'))
+console.log("Composing squared strings".toLowerCase().replaceAll(' ', '-'))
