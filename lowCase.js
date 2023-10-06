@@ -1,1 +1,1 @@
-console.log("Even or Odd".toLowerCase().replaceAll(' ', '-'))
+console.log("Simple beads count".toLowerCase().replaceAll(' ', '-'))
