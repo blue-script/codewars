@@ -1,1 +1,1 @@
-console.log("Composing squared strings".toLowerCase().replaceAll(' ', '-'))
+console.log("Exclamation marks series #7".toLowerCase().replaceAll(' ', '-'))
