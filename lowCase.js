@@ -1,1 +1,1 @@
-console.log("Exclamation marks series #7".toLowerCase().replaceAll(' ', '-'))
+console.log("Disemvowel Trolls".toLowerCase().replaceAll(' ', '-'))

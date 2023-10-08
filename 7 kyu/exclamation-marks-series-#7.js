@@ -13,13 +13,11 @@
 // ✅
 
 function remove(string) {
-    if (string.length < 1) return ""
-    let arr = string.split(" ")
-    let newArr = []
-    arr.forEach((str) => {
-        if (!str.match(/!/g) || str.match(/!/g).length !== 1) newArr.push(str)
-    })
-    return newArr.join(" ");
+    function remove(s){
+        return s.split(' ').filter(i => {
+            i.split('!')
+        }.length != 2).join(' ');
+      }
 }
 
 console.log(remove("Hi Hi! Hi!"))
