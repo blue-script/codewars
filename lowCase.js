@@ -1,1 +1,1 @@
-console.log("Disemvowel Trolls".toLowerCase().replaceAll(' ', '-'))
+console.log("Reduce My Fraction".toLowerCase().replaceAll(' ', '-'))
