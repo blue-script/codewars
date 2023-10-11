@@ -1,1 +1,1 @@
-console.log("Reduce My Fraction".toLowerCase().replaceAll(' ', '-'))
+console.log("Boiled Eggs".toLowerCase().replaceAll(' ', '-'))
