@@ -1,1 +1,1 @@
-console.log("Boiled Eggs".toLowerCase().replaceAll(' ', '-'))
+console.log("Bugs Life".toLowerCase().replaceAll(' ', '-'))
