@@ -1,1 +1,1 @@
-console.log("Bugs Life".toLowerCase().replaceAll(' ', '-'))
+console.log("List Filtering".toLowerCase().replaceAll(' ', '-'))
