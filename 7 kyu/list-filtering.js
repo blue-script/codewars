@@ -9,11 +9,7 @@
 // ✅ SOLUTION
 
 function filter_list(arr) {
-    return arr.filter(item => {
-        if (typeof item === "number") {
-            return true
-        }
-    })
+    return arr.filter(item => typeof item === "number")
 }
 
 console.log(filter_list([1, 'a', 'b', 0, 15]))
