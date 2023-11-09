@@ -1,1 +1,1 @@
-console.log("Death by Coffee".toLowerCase().replaceAll(' ', '-'))
+console.log("Sum of positive".toLowerCase().replaceAll(' ', '-'))
