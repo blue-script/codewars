@@ -1,1 +1,1 @@
-console.log("Sum of positive".toLowerCase().replaceAll(' ', '-'))
+console.log("Return Negative".toLowerCase().replaceAll(' ', '-'))
