@@ -1,1 +1,1 @@
-console.log("Return Negative".toLowerCase().replaceAll(' ', '-'))
+console.log("Reversed Strings".toLowerCase().replaceAll(' ', '-'))
