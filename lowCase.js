@@ -1,1 +1,1 @@
-console.log("Reversed Strings".toLowerCase().replaceAll(' ', '-'))
+console.log("Rock Paper Scissors".toLowerCase().replaceAll(' ', '-'))
