@@ -1,1 +1,1 @@
-console.log("Rock Paper Scissors".toLowerCase().replaceAll(' ', '-'))
+console.log("Convert boolean values to strings 'Yes' or 'No'.".toLowerCase().replaceAll(' ', '-'))
