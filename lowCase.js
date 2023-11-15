@@ -1,1 +1,1 @@
-console.log("Convert boolean values to strings 'Yes' or 'No'.".toLowerCase().replaceAll(' ', '-'))
+console.log("Convert a Number to a String".toLowerCase().replaceAll(' ', '-'))
