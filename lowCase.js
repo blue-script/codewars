@@ -1,1 +1,1 @@
-console.log("Convert a Number to a String".toLowerCase().replaceAll(' ', '-'))
+console.log("Opposite number".toLowerCase().replaceAll(' ', '-'))
