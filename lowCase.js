@@ -1,1 +1,1 @@
-console.log("Opposite number".toLowerCase().replaceAll(' ', '-'))
+console.log("Remove First and Last Character".toLowerCase().replaceAll(' ', '-'))
