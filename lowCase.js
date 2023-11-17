@@ -1,1 +1,1 @@
-console.log("Remove First and Last Character".toLowerCase().replaceAll(' ', '-'))
+console.log("Square(n) Sum".toLowerCase().replaceAll(' ', '-'))
