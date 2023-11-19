@@ -1,1 +1,1 @@
-console.log("Square(n) Sum".toLowerCase().replaceAll(' ', '-'))
+console.log("Square Every Digit".toLowerCase().replaceAll(' ', '-'))
