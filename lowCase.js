@@ -1,1 +1,1 @@
-console.log("Square Every Digit".toLowerCase().replaceAll(' ', '-'))
+console.log("Grasshopper - Summation".toLowerCase().replaceAll(' ', '-'))
