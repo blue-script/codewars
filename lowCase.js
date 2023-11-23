@@ -1,1 +1,1 @@
-console.log("Grasshopper - Summation".toLowerCase().replaceAll(' ', '-'))
+console.log("Remove String Spaces".toLowerCase().replaceAll(' ', '-'))
