@@ -1,1 +1,1 @@
-console.log("Remove String Spaces".toLowerCase().replaceAll(' ', '-'))
+console.log("Find the smallest integer in the array".toLowerCase().replaceAll(' ', '-'))
