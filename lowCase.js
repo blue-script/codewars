@@ -1,1 +1,1 @@
-console.log("Find the smallest integer in the array".toLowerCase().replaceAll(' ', '-'))
+console.log("Human readable duration format".toLowerCase().replaceAll(' ', '-'))
