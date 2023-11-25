@@ -1,1 +1,1 @@
-console.log("Human readable duration format".toLowerCase().replaceAll(' ', '-'))
+console.log("Counting sheep...".toLowerCase().replaceAll(' ', '-'))
