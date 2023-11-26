@@ -1,1 +1,1 @@
-console.log("Counting sheep...".toLowerCase().replaceAll(' ', '-'))
+console.log("Basic Mathematical Operations".toLowerCase().replaceAll(' ', '-'))
