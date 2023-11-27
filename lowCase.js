@@ -1,1 +1,1 @@
-console.log("Basic Mathematical Operations".toLowerCase().replaceAll(' ', '-'))
+console.log("Total amount of points".toLowerCase().replaceAll(' ', '-'))
