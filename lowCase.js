@@ -1,1 +1,1 @@
-console.log("Keep Hydrated".toLowerCase().replaceAll(' ', '-'))
+console.log("some some.toLowerCase().replaceAll(' ', '-'))
