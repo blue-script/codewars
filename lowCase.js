@@ -1,1 +1,1 @@
-console.log("Total amount of points".toLowerCase().replaceAll(' ', '-'))
+console.log("Keep Hydrated".toLowerCase().replaceAll(' ', '-'))
