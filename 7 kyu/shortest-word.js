@@ -5,7 +5,10 @@
 
 // ✅ SOLUTION
 
-function findShort(s){
-  let arr = s.split(' ')
-  return arr.reduce((acc, cur)=> acc < cur.length ? acc : cur.length, arr[0].length)
+function findShort(s) {
+	let arr = s.split(' ')
+	return arr.reduce(
+		(acc, cur) => (acc < cur.length ? acc : cur.length),
+		arr[0].length
+	)
 }
