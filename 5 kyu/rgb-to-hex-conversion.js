@@ -18,5 +18,4 @@ const toHex = (num)=> {
 
 
 console.log(rgb(1,0,300))
-console.log(rgb(26,114,15)) //'1A720F'
 
