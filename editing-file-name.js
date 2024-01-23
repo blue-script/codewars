@@ -1,1 +1,2 @@
-console.log('Weight for weight'.replaceAll(' ', '-').toLowerCase())
+const text = 'String incrementer'
+console.log(text.replaceAll(' ', '-').toLowerCase())
