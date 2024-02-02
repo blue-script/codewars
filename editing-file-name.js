@@ -1,2 +1,2 @@
-const text = 'Equal Sides Of An Array'
+const text = 'Greed is Good'
 console.log(text.replaceAll(' ', '-').toLowerCase())
