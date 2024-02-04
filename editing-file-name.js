@@ -1,2 +1,2 @@
-const text = 'Greed is Good'
+const text = 'A Needle in the Haystack'
 console.log(text.replaceAll(' ', '-').toLowerCase())
