@@ -1,2 +1,2 @@
-const text = 'A Needle in the Haystack'
+const text = 'Printer Errors'
 console.log(text.replaceAll(' ', '-').toLowerCase())
