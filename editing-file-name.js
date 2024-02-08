@@ -1,2 +1,2 @@
-const text = 'Printer Errors'
+const text = 'Split Strings'
 console.log(text.replaceAll(' ', '-').toLowerCase())
