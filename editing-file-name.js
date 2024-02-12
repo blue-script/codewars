@@ -1,2 +1,2 @@
-const text = 'Split Strings'
+const text = 'Opposites Attract'
 console.log(text.replaceAll(' ', '-').toLowerCase())
