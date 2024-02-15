@@ -1,2 +1,2 @@
-const text = 'Regex validate PIN code'
+const text = 'Binary Addition'
 console.log(text.replaceAll(' ', '-').toLowerCase())
