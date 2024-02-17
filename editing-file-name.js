@@ -1,2 +1,2 @@
-const text = 'Growth of a Population'
+const text = 'String ends with'
 console.log(text.replaceAll(' ', '-').toLowerCase())
