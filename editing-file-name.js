@@ -1,2 +1,2 @@
-const text = 'Number of People in the Bus'
+const text = 'Beginner Series #1 School Paperwork'
 console.log(text.replaceAll(' ', '-').toLowerCase())
