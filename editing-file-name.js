@@ -1,2 +1,2 @@
-const text = 'Beginner Series #1 School Paperwork'
+const text = 'Convert a Boolean to a String'
 console.log(text.replaceAll(' ', '-').toLowerCase())
