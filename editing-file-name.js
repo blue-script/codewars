@@ -1,2 +1,2 @@
-const text = 'Are You Playing Banjo'
+const text = 'Beginner Series #2 Clock'
 console.log(text.replaceAll(' ', '-').toLowerCase())
