@@ -1,2 +1,2 @@
-const text = 'How good are you really'
+const text = 'Count of positives sum of negatives'
 console.log(text.replaceAll(' ', '-').toLowerCase())
