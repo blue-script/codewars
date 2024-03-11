@@ -1,2 +1,2 @@
-const text = 'Count of positives sum of negatives'
+const text = 'Reverse words'
 console.log(text.replaceAll(' ', '-').toLowerCase())
