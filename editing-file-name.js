@@ -1,2 +1,2 @@
-const text = 'Reverse words'
+const text = 'Sort the odd'
 console.log(text.replaceAll(' ', '-').toLowerCase())
