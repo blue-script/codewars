@@ -1,2 +1,2 @@
-const text = 'You only need one Beginner'
+const text = 'Fake Binary'
 console.log(text.replaceAll(' ', '-').toLowerCase())
