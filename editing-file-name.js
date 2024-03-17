@@ -1,2 +1,2 @@
-const text = 'Find the missing letter'
+const text = 'Beginner - Reduce but Grow'
 console.log(text.replaceAll(' ', '-').toLowerCase())
