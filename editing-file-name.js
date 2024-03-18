@@ -1,2 +1,2 @@
-const text = 'Beginner - Reduce but Grow'
+const text = 'MakeUpperCase'
 console.log(text.replaceAll(' ', '-').toLowerCase())
