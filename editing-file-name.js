@@ -1,2 +1,2 @@
-const text = 'Reversed sequence'
+const text = 'Is he gonna survive'
 console.log(text.replaceAll(' ', '-').toLowerCase())
