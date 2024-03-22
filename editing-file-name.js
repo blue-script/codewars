@@ -1,2 +1,2 @@
-const text = 'Sentence Smash'
+const text = 'Build Tower'
 console.log(text.replaceAll(' ', '-').toLowerCase())
