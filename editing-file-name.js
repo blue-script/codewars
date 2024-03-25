@@ -1,2 +1,2 @@
-const text = 'Will you make it'
+const text = 'Count by X'
 console.log(text.replaceAll(' ', '-').toLowerCase())
