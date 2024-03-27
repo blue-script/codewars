@@ -1,2 +1,2 @@
-const text = 'DNA to RNA Conversion'
+const text = 'Find the divisors'
 console.log(text.replaceAll(' ', '-').toLowerCase())
