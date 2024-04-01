@@ -1,2 +1,2 @@
-const text = "If you can't sleep, just count sheep"
+const text = "Jenny's secret message"
 console.log(text.replaceAll(' ', '-').toLowerCase())
