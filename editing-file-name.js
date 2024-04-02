@@ -1,2 +1,2 @@
-const text = "Jenny's secret message"
+const text = "Reversed Words"
 console.log(text.replaceAll(' ', '-').toLowerCase())
