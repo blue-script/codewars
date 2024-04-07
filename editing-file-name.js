@@ -1,2 +1,2 @@
-const text = "Delete occurrences of an element if it occurs more than n times"
+const text = "Count the smiley faces"
 console.log(text.replaceAll(' ', '-').toLowerCase())
