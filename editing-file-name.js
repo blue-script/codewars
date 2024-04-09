@@ -1,2 +1,2 @@
-const text = "Array plus array"
+const text = "Grasshopper - Grade book"
 console.log(text.replaceAll(' ', '-').toLowerCase())
