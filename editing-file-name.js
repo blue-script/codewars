@@ -1,2 +1,2 @@
-const text = "Build a pile of Cubes"
+const text = "Area or Perimeter"
 console.log(text.replaceAll(' ', '-').toLowerCase())
