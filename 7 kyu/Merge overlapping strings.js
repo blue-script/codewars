@@ -9,11 +9,7 @@
 
 // ✅ SOLUTION
 function mergeStrings(first, second){
-  for (let i = second.length; i >= 0; i--) {
-    if (first.endsWith(second.slice(0,i+1))) {
-      return first.concat(second.substring(i+1))
-    }
-  }
-  
-  return first.concat(second)
+  return (first + ' ' + second).replace(/(.*) \1/, '$1');
 }
+
+console.log(mergeStrings("abc", "cde"));
