@@ -1,0 +1,1 @@
+|| (list[i] + 1 === list[i + 1] && list[i] + 2 !== list[i + 2])
