@@ -19,5 +19,8 @@
 
 // ✅ SOLUTION
 function permutations(string) {
-  return [];
+
 }
+
+
+console.log(permutations('abc'))
