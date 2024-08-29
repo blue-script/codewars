@@ -19,7 +19,22 @@
 
 // ✅ SOLUTION
 function permutations(string) {
+  if (string.length === 0) return []
+  if (string.length === 1) return [string]
 
+  const res = []
+
+  const curArray = permutations(string.slice(0, string.length - 1))
+  const curLetter = string[string.length - 1]
+
+  for (let act of curArray) {
+    for (let i = 0; i <= act.length; i++) {
+      const temp = act.slice(0, i) + curLetter + act.slice(i)
+      res.push(temp)
+    }
+  }
+
+  return Array.from(new Set(res))
 }
 
 
